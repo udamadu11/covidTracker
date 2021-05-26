@@ -1,3 +1,19 @@
 .container {
-  background-color: aliceblue;
+  margin: 50px 0;
+}
+
+.card {
+  margin: 0 2% !important;
+}
+
+.infected {
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.recovered {
+  border-bottom: 10px solid rgba(13, 202, 22, 0.5);
+}
+
+.deaths {
+  border-bottom: 10px solid rgba(194, 21, 9, 0.5);
 }
